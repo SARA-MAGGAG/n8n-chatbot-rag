@@ -6,6 +6,16 @@ Plutôt que de fine-tuner un modèle, ce projet utilise une **base de données v
 
 ---
 
+## 🖼️ Aperçu
+
+### Workflow n8n complet
+![Workflow RAG & Chatbot](./worflow%20rag%20%26%20chatbot.jpg)
+
+### Résultat du chatbot en action
+![Résultat du chatbot](./result.jpg)
+
+---
+
 ## 🧠 Fonctionnement du système
 
 ### 1. Pipeline d'ingestion des données
