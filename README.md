@@ -66,7 +66,9 @@ Plutôt que de fine-tuner un modèle, ce projet utilise une **base de données v
 
 ## 🎥 Démonstration
 
-Une vidéo montrant l'exécution complète du workflow et les réponses en temps réel est disponible dans ce dépôt : `demo.mp4` *(à ajouter/renommer selon votre fichier)*.
+📽️ [Regarder la vidéo de démonstration](https://github.com/SARA-MAGGAG/n8n-chatbot-rag/blob/main/Video%20Project%20rag.mp4)
+
+La vidéo montre l'exécution complète du workflow n8n et le chatbot répondant en temps réel aux questions sur le menu.
 
 ---
 
